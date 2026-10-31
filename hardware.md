@@ -19,23 +19,23 @@ same places.
 
 ## Stations
 
-Hostnames follow the pattern `<name>-isl-ssurobotics-<numeral>`. Eight stations are assigned to
-the EE 473/573 course sequence and two are reserved for other lab work.
+Hostnames follow the pattern `<name>-isl-ssurobotics-<numeral>`, and the station number is the
+numeral in the hostname.
 
-| Hostname | Station | Room | Use |
-|---|---|---|---|
-| `brandon-isl-ssurobotics-i` | I | 2008 | course |
-| `tyler-isl-ssurobotics-ii` | II | 2008 | course |
-| `alex-isl-ssurobotics-iii` | III | 2008 | course |
-| `xor-isl-ssurobotics-iv` | IV | 2008 | course |
-| `ryan-isl-ssurobotics-v` | V | 2008 | course |
-| `antonio-isl-ssurobotics-vi` | VI | 2008 | course |
-| `sage-isl-ssurobotics-vii` | none | 2008 | lab work |
-| `hyper-isl-ssurobotics-viii` | none | 2008 | lab work |
-| `blake-isl-ssurobotics-ix` | IX | 2007 | course |
-| `esli-isl-ssurobotics-x` | X | 2007 | course |
+| Hostname | Station | Room |
+|---|---|---|
+| `brandon-isl-ssurobotics-i` | I | 2008 |
+| `tyler-isl-ssurobotics-ii` | II | 2008 |
+| `alex-isl-ssurobotics-iii` | III | 2008 |
+| `xor-isl-ssurobotics-iv` | IV | 2008 |
+| `ryan-isl-ssurobotics-v` | V | 2008 |
+| `antonio-isl-ssurobotics-vi` | VI | 2008 |
+| `sage-isl-ssurobotics-vii` | VII | 2008 |
+| `hyper-isl-ssurobotics-viii` | VIII | 2008 |
+| `blake-isl-ssurobotics-ix` | IX | 2007 |
+| `esli-isl-ssurobotics-x` | X | 2007 |
 
-Stations I through VI are in Salazar 2008, and IX and X are in 2007.
+Stations I through VIII are in Salazar 2008, and IX and X are in 2007.
 
 An older group of ISL machines, named `<name>-isl-legacy-<numeral>`, remains in service for
 general lab use. Those do not carry the robotics image described in
